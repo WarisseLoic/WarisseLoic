@@ -7,9 +7,9 @@
 
 <img align="left" alt="JavaScript" width="24px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-<img align="left" alt="React.js" width="24px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img alt="React.js" width="24px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
-<img alt="HTML" width="24px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="HTML" width="24px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 
 <img alt="Python" width="24px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
