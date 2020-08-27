@@ -1,10 +1,6 @@
 ### Hi there, I'm [WarisseLoic!](https://github.com/WarisseLoic) 👋🏽
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WarisseLoic/&title=Profile%20Views)
 
-🎙Hi, I'm Clement Bolin. Passionate about computer science, I study mainly in the fields of software engineering, data science, artificial intelligence and all recently devOps. I am currently in my second year at Epitech Montpellier. 🎙
-
-### Skills 🧑🏾‍💻
-
 <img align="left" alt="JavaScript" width="24px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 <img alt="React.js" width="24px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
