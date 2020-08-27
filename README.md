@@ -1,4 +1,4 @@
-### Hi there, I'm [WarisseLoic!](https://github.com/WarisseLoic) 👋🏽
+### I'm [WarisseLoic!](https://github.com/WarisseLoic)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WarisseLoic/&title=Profile%20Views)
 
 <img align="left" alt="JavaScript" width="24px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
