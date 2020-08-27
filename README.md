@@ -9,7 +9,7 @@
 <img align="left" alt="Node.js" width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 <img align="left" alt="React.js" width="24px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 
-<img align="left" alt="Python" width="24px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="right" alt="Python" width="24px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="Ruby" width="24px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" />
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 <img align="left" alt="C++" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" />
